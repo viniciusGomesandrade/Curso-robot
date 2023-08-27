@@ -1,0 +1,20 @@
+#robot
+
+- Robot serve para testes de aceitacao(funcionais e sistema)
+- Interagir com diversos tipos de sistemas
+
+Na empresa ele serve para testes funcionais de back-end
+- times de stacks hibridas
+- times com Qas iniciando em automacao de testes
+- Projetos co m automacao de diferentes tipos de sistema
+- Open source
+- python
+- documentação
+- nao dependente de outros frameworks
+- Nao serve para testes unitarios e nem performance.
+
+
+KEYWORD-DRIVEN
+
+- abordagem de desenvolvimento de testes automatizados utilizando palavra chave
+- 
